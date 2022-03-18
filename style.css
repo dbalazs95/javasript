@@ -1,0 +1,12 @@
+#galeria {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    width: 75%;
+    margin: auto;
+}
+
+#kepgaleria {
+    border: 1px solid black;
+    align-content: center;
+    text-align: center;
+}
